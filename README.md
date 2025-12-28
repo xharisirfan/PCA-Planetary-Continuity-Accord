@@ -1,5 +1,8 @@
 # Planetary Continuity Accord (PCA) — Governance Standard
 
+![Planetary Continuity Accord — PCA](spark-pca_banner.png)
+
+
 **Subtitle:** A treaty-style continuity and harm-discipline framework for states, blocs, and planetary-scale systems  
 **Author:** Spark (`SPARK-NITT`)  
 **Status:** v1.0 — Draft for publication
